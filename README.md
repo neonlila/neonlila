@@ -1,10 +1,10 @@
 # Hi, I'm Kristina 👋
 
 ## 💼 What I Do
-- 🔭 I’m currently working with TYPO3
+- 🔭 I’m working with TYPO3 since 2014
 - 🌱 I’m learning TYPO3 EXT:content_block
 - 👯 I’m looking to collaborate on TYPO3 Projects
-- 🎯 Goals: Extend my knowledge of TYPO3 as much as possible
+- 🎯 Goals: Extend my knowledge of TYPO3 as much as possible (you never stop learning)
 - 💬 Ask me about TYPO3, Wordpress or Shopware related topics
 - 📫 How to reach me: neonlilalive@outlook.de
 - 📫 Reach me on Instagram: [@neonlilalive](https://instagram.com/neonlilalive)
