@@ -33,6 +33,12 @@
 ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white)
 ![Matomo](https://img.shields.io/badge/Matomo-3152A0?style=flat&logo=matomo&logoColor=white)
 
+## 🧩 Hobbies
+- 💻 Technology & Tinkering  
+- 🎨 Commission Drawing & Graphic Design  
+- 🌐 Web Design & UI/UX Concepts  
+- 🎥 Streaming & Content Creation  
+- 📚 Reading Fiction & Non-Fiction
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=internet-explorer&logoColor=white)](in progress)
