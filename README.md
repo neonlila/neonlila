@@ -36,5 +36,5 @@
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=internet-explorer&logoColor=white)](in progress)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/neonlilalive)
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/neonlilalive)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/neonlilalive)
